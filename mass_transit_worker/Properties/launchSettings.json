@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "mass_transit_worker": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
